@@ -1,4 +1,5 @@
 # VaxiStock – Livestock Vaccination Tracker
+
 ## Overview
 
 VaxiStock is a web-based application designed to help farmers manage livestock and track vaccination schedules efficiently. The system allows users to register animals, schedule vaccinations, monitor due dates, and maintain a complete vaccination history.
